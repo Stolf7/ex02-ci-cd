@@ -1,0 +1,12 @@
+{
+    "name": "projeto-operacoes",
+    "version": "1.0.0",
+    "description": "Projeto de operações matemáticas com testes unitários",
+    "main": "js/operacoes.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
